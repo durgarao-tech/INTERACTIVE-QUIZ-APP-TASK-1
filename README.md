@@ -58,3 +58,6 @@ Category Selection: Allowing users to choose quiz topics or difficulty levels.
 Backend Integration: Storing scores and user data on a server for persistent tracking and analysis.
 This Interactive Quiz Application is a testament to the versatility of HTML, CSS, and JavaScript in creating engaging and functional web applications. It serves as an excellent foundation for further enhancements and demonstrates the potential of web technologies in delivering impactful user experiences.
 
+# OUTPUT OF THE TASK-2#
+https://github.com/durgarao-tech/INTERACTIVE-QUIZ-APP-TASK-1.git
+
